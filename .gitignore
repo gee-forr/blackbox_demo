@@ -18,3 +18,4 @@
 pubring.gpg~
 secring.gpg
 config/secrets.yml
+config/database.yml
